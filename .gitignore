@@ -13,6 +13,14 @@ Thumbs.db
 # VS Code
 .vscode/
 
+# Build / IDE output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+
 # Python stuff (optional if using Python)
 __pycache__/
 *.pyc
