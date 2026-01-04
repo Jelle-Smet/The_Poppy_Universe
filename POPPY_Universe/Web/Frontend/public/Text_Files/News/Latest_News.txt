@@ -1,0 +1,26 @@
+
+Latest News — Poppy Universe
+
+🌟 **Poppy Universe Expands Its Observation Network**
+Our catalog just grew. More stars, planets, and moons have been added to Poppy’s observation database, giving you richer recommendations and deeper exploration options. The universe just got a little bigger.
+
+🧠 **Poppy’s Recommendation Engine — Ongoing Refinements**
+Poppy is getting smarter. We’re actively refining how trend signals, familiarity patterns, and hidden matches are combined, resulting in more accurate and personal recommendations across all layers.
+
+🛰️ **Deep Space Scanner: Feature Enhancements**
+The Deep Space Scanner has received backend improvements for faster object detection and cleaner results. Expect smoother scans, clearer classifications, and more reliable discoveries.
+
+🌌 **Explorer Activity Highlights**
+Several explorers recently interacted with rare and high-interest celestial objects. These interactions help Poppy learn what truly captures attention, improving future recommendations for everyone.
+
+📡 **Stargazing Forecast Improvements**
+We’re enhancing how atmospheric conditions influence visibility predictions. Forecasts now better reflect real-world stargazing conditions, helping you choose the perfect moment to observe.
+
+🧭 **UI & Navigation Updates**
+Small but meaningful improvements have been deployed across the site. Navigation is smoother, exploration paths are clearer, and key features are easier to access—especially on data-heavy pages.
+
+🚀 **What’s Next**
+Upcoming updates will focus on deeper object comparisons, richer encyclopedia entries, and tighter integration between exploration tools and recommendations. Poppy is watching the data closely.
+
+
+
