@@ -1,0 +1,19 @@
+POPPY_Universe/
+
+
+
+# Ignore OneDrive temp stuff
+~$*
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python stuff (optional if using Python)
+__pycache__/
+*.pyc
